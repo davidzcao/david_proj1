@@ -1,2 +1,6 @@
 git init
 git status
+git add .
+git commit -m "this is my first commit"
+# if user not existed, it create a one base on the windows user.
+git config --global --edit to change user
